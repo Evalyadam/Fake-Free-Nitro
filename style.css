@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+
+h2, h3, h4, h5, h6, p, blockquote, pre, nav{
+    color: aliceblue;
+}
+
+hr {
+    height: 5px;
+    margin-top: 0%;
+    display: block;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;
+}
+
+.tenor-gif-embed{
+    display: block;
+    margin: auto;
+}
